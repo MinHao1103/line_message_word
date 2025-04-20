@@ -1,0 +1,380 @@
+[
+  {
+    "date": "2025-04-20",
+    "word": "abandon",
+    "part_of_speech": "verb",
+    "definition": "to give up completely",
+    "definition_zh": "放棄",
+    "example": "They had to abandon the project due to lack of funding.",
+    "example_zh": "由於資金不足，他們不得不放棄這個專案。"
+  },
+  {
+    "date": "2025-04-21",
+    "word": "ability",
+    "part_of_speech": "noun",
+    "definition": "the power or skill to do something",
+    "definition_zh": "能力",
+    "example": "Her ability to solve complex problems impressed everyone.",
+    "example_zh": "她解決複雜問題的能力給所有人留下了深刻的印象。"
+  },
+  {
+    "date": "2025-04-22",
+    "word": "able",
+    "part_of_speech": "adjective",
+    "definition": "having the power, skill, means, or opportunity to do something",
+    "definition_zh": "能夠的",
+    "example": "She is able to speak five languages fluently.",
+    "example_zh": "她能夠流利地說五種語言。"
+  },
+  {
+    "date": "2025-04-23",
+    "word": "aboard",
+    "part_of_speech": "preposition",
+    "definition": "on or into a ship, aircraft, or vehicle",
+    "definition_zh": "在船(飛機、車)上",
+    "example": "All passengers must be aboard the flight 30 minutes before departure.",
+    "example_zh": "所有乘客必須在起飛前30分鐘登機。"
+  },
+  {
+    "date": "2025-04-24",
+    "word": "about",
+    "part_of_speech": "preposition",
+    "definition": "on the subject of; concerning",
+    "definition_zh": "關於",
+    "example": "We talked about the upcoming TOEIC exam.",
+    "example_zh": "我們談論了即將到來的多益考試。"
+  },
+  {
+    "date": "2025-04-25",
+    "word": "above",
+    "part_of_speech": "preposition",
+    "definition": "at a higher level or layer than",
+    "definition_zh": "在...之上",
+    "example": "The airplane flew above the clouds.",
+    "example_zh": "飛機飛行在雲層之上。"
+  },
+  {
+    "date": "2025-04-26",
+    "word": "abroad",
+    "part_of_speech": "adverb",
+    "definition": "in or to a foreign country",
+    "definition_zh": "在國外",
+    "example": "She studied abroad for one year to improve her language skills.",
+    "example_zh": "她在國外學習了一年以提高她的語言能力。"
+  },
+  {
+    "date": "2025-04-27",
+    "word": "absence",
+    "part_of_speech": "noun",
+    "definition": "the state of being away from a place or person",
+    "definition_zh": "缺席",
+    "example": "Her absence from the meeting was noted by the manager.",
+    "example_zh": "經理注意到她沒有出席會議。"
+  },
+  {
+    "date": "2025-04-28",
+    "word": "absolute",
+    "part_of_speech": "adjective",
+    "definition": "complete and total",
+    "definition_zh": "絕對的",
+    "example": "I have absolute confidence in your abilities.",
+    "example_zh": "我對你的能力有絕對的信心。"
+  },
+  {
+    "date": "2025-04-29",
+    "word": "absolutely",
+    "part_of_speech": "adverb",
+    "definition": "completely and totally",
+    "definition_zh": "絕對地",
+    "example": "I absolutely agree with your assessment of the situation.",
+    "example_zh": "我完全同意你對這種情況的評估。"
+  },
+  {
+    "date": "2025-04-30",
+    "word": "absorb",
+    "part_of_speech": "verb",
+    "definition": "to take in or soak up",
+    "definition_zh": "吸收",
+    "example": "The sponge can absorb a large amount of water.",
+    "example_zh": "海綿能吸收大量的水。"
+  },
+  {
+    "date": "2025-05-01",
+    "word": "abstract",
+    "part_of_speech": "adjective",
+    "definition": "existing in thought or as an idea but not having a physical existence",
+    "definition_zh": "抽象的",
+    "example": "The painting featured abstract shapes and vibrant colors.",
+    "example_zh": "這幅畫以抽象的形狀和鮮豔的顏色為特色。"
+  },
+  {
+    "date": "2025-05-02",
+    "word": "academic",
+    "part_of_speech": "adjective",
+    "definition": "relating to education and scholarship",
+    "definition_zh": "學術的",
+    "example": "Her academic achievements earned her a scholarship.",
+    "example_zh": "她的學術成就為她贏得了獎學金。"
+  },
+  {
+    "date": "2025-05-03",
+    "word": "accelerate",
+    "part_of_speech": "verb",
+    "definition": "to increase in speed or rate",
+    "definition_zh": "加速",
+    "example": "The car began to accelerate as it approached the highway.",
+    "example_zh": "當車輛接近高速公路時開始加速。"
+  },
+  {
+    "date": "2025-05-04",
+    "word": "accent",
+    "part_of_speech": "noun",
+    "definition": "a distinctive way of pronouncing a language",
+    "definition_zh": "口音",
+    "example": "He speaks English with a slight French accent.",
+    "example_zh": "他說英語時帶有輕微的法國口音。"
+  },
+  {
+    "date": "2025-05-05",
+    "word": "accept",
+    "part_of_speech": "verb",
+    "definition": "to take or receive willingly",
+    "definition_zh": "接受",
+    "example": "She was happy to accept the job offer.",
+    "example_zh": "她很高興接受這份工作邀請。"
+  },
+  {
+    "date": "2025-05-06",
+    "word": "acceptable",
+    "part_of_speech": "adjective",
+    "definition": "able to be agreed on; suitable",
+    "definition_zh": "可接受的",
+    "example": "These terms are acceptable to both parties.",
+    "example_zh": "這些條款對雙方都是可以接受的。"
+  },
+  {
+    "date": "2025-05-07",
+    "word": "access",
+    "part_of_speech": "noun",
+    "definition": "the means or opportunity to approach or enter a place",
+    "definition_zh": "進入",
+    "example": "The key card gives you access to the building after hours.",
+    "example_zh": "門禁卡讓你可以在非工作時間進入大樓。"
+  },
+  {
+    "date": "2025-05-08",
+    "word": "accessibility",
+    "part_of_speech": "noun",
+    "definition": "the quality of being able to be reached or entered",
+    "definition_zh": "可接近性",
+    "example": "The website improved its accessibility features for users with disabilities.",
+    "example_zh": "該網站改善了對殘障使用者的無障礙功能。"
+  },
+  {
+    "date": "2025-05-09",
+    "word": "accessible",
+    "part_of_speech": "adjective",
+    "definition": "able to be reached or entered",
+    "definition_zh": "易接近的",
+    "example": "The mountain village is not easily accessible during winter.",
+    "example_zh": "這個山村在冬季不容易到達。"
+  },
+  {
+    "date": "2025-05-10",
+    "word": "accident",
+    "part_of_speech": "noun",
+    "definition": "an unfortunate incident that happens unexpectedly",
+    "definition_zh": "事故",
+    "example": "He was involved in a minor traffic accident yesterday.",
+    "example_zh": "他昨天捲入了一場小型交通事故。"
+  },
+  {
+    "date": "2025-05-11",
+    "word": "accidental",
+    "part_of_speech": "adjective",
+    "definition": "happening by chance, unintentionally",
+    "definition_zh": "偶然的",
+    "example": "The discovery was accidental but led to an important breakthrough.",
+    "example_zh": "這個發現是偶然的，但導致了一個重要的突破。"
+  },
+  {
+    "date": "2025-05-12",
+    "word": "accidentally",
+    "part_of_speech": "adverb",
+    "definition": "by chance; inadvertently",
+    "definition_zh": "意外地",
+    "example": "She accidentally deleted the important file.",
+    "example_zh": "她不小心刪除了重要的文件。"
+  },
+  {
+    "date": "2025-05-13",
+    "word": "accommodate",
+    "part_of_speech": "verb",
+    "definition": "to provide lodging or sufficient space for",
+    "definition_zh": "容納",
+    "example": "The hotel can accommodate up to 500 guests.",
+    "example_zh": "這家酒店最多可容納500位客人。"
+  },
+  {
+    "date": "2025-05-14",
+    "word": "accommodation",
+    "part_of_speech": "noun",
+    "definition": "a place to live, stay, or work",
+    "definition_zh": "住宿",
+    "example": "The company provided accommodation for its employees during the conference.",
+    "example_zh": "公司在會議期間為員工提供了住宿。"
+  },
+  {
+    "date": "2025-05-15",
+    "word": "accompany",
+    "part_of_speech": "verb",
+    "definition": "to go somewhere with someone",
+    "definition_zh": "陪伴",
+    "example": "The security guard will accompany you to your car.",
+    "example_zh": "保安人員會陪你到你的車子。"
+  },
+  {
+    "date": "2025-05-16",
+    "word": "accomplish",
+    "part_of_speech": "verb",
+    "definition": "to achieve or complete successfully",
+    "definition_zh": "完成",
+    "example": "She accomplished all her goals for the quarter.",
+    "example_zh": "她完成了她這季度的所有目標。"
+  },
+  {
+    "date": "2025-05-17",
+    "word": "accomplishment",
+    "part_of_speech": "noun",
+    "definition": "something that has been achieved successfully",
+    "definition_zh": "成就",
+    "example": "Graduating from college was a significant accomplishment.",
+    "example_zh": "大學畢業是一項重要的成就。"
+  },
+  {
+    "date": "2025-05-18",
+    "word": "according to",
+    "part_of_speech": "preposition",
+    "definition": "as stated or reported by",
+    "definition_zh": "根據",
+    "example": "According to the weather forecast, it will rain tomorrow.",
+    "example_zh": "根據天氣預報，明天會下雨。"
+  },
+  {
+    "date": "2025-05-19",
+    "word": "account",
+    "part_of_speech": "noun",
+    "definition": "a record or statement of financial expenditure or receipts",
+    "definition_zh": "帳戶",
+    "example": "She opened a new bank account last week.",
+    "example_zh": "她上週開設了一個新的銀行帳戶。"
+  },
+  {
+    "date": "2025-05-20",
+    "word": "accountant",
+    "part_of_speech": "noun",
+    "definition": "a person whose job is to keep or inspect financial accounts",
+    "definition_zh": "會計師",
+    "example": "The company hired a new accountant to manage their finances.",
+    "example_zh": "公司聘請了一名新的會計師來管理他們的財務。"
+  },
+  {
+    "date": "2025-05-21",
+    "word": "accounting",
+    "part_of_speech": "noun",
+    "definition": "the process of recording and summarizing financial transactions",
+    "definition_zh": "會計",
+    "example": "She majored in accounting at university.",
+    "example_zh": "她在大學主修會計。"
+  },
+  {
+    "date": "2025-05-22",
+    "word": "accumulate",
+    "part_of_speech": "verb",
+    "definition": "to gather or acquire gradually",
+    "definition_zh": "積累",
+    "example": "Over time, he accumulated a vast collection of rare books.",
+    "example_zh": "隨著時間的推移，他積累了大量的珍貴書籍。"
+  },
+  {
+    "date": "2025-05-23",
+    "word": "accuracy",
+    "part_of_speech": "noun",
+    "definition": "the quality or state of being correct or precise",
+    "definition_zh": "準確性",
+    "example": "The accuracy of the translation was impressive.",
+    "example_zh": "這個翻譯的準確性令人印象深刻。"
+  },
+  {
+    "date": "2025-05-24",
+    "word": "accurate",
+    "part_of_speech": "adjective",
+    "definition": "correct in all details; exact",
+    "definition_zh": "準確的",
+    "example": "The report contained accurate information about the market trends.",
+    "example_zh": "報告中包含了關於市場趨勢的準確信息。"
+  },
+  {
+    "date": "2025-05-25",
+    "word": "accusation",
+    "part_of_speech": "noun",
+    "definition": "a charge or claim that someone has done something illegal or wrong",
+    "definition_zh": "指控",
+    "example": "He denied all accusations of fraud.",
+    "example_zh": "他否認所有關於欺詐的指控。"
+  },
+  {
+    "date": "2025-05-26",
+    "word": "accuse",
+    "part_of_speech": "verb",
+    "definition": "to charge someone with an offense or crime",
+    "definition_zh": "指責",
+    "example": "The witness accused the defendant of stealing the wallet.",
+    "example_zh": "證人指控被告偷了錢包。"
+  },
+  {
+    "date": "2025-05-27",
+    "word": "achieve",
+    "part_of_speech": "verb",
+    "definition": "to successfully bring about or reach by effort",
+    "definition_zh": "達成",
+    "example": "With hard work, you can achieve your dreams.",
+    "example_zh": "通過努力工作，你可以實現你的夢想。"
+  },
+  {
+    "date": "2025-05-28",
+    "word": "achievement",
+    "part_of_speech": "noun",
+    "definition": "a thing done successfully with effort, skill, or courage",
+    "definition_zh": "成就",
+    "example": "Winning the gold medal was his greatest achievement.",
+    "example_zh": "贏得金牌是他最大的成就。"
+  },
+  {
+    "date": "2025-05-29",
+    "word": "acknowledge",
+    "part_of_speech": "verb",
+    "definition": "to accept or admit the existence or truth of",
+    "definition_zh": "承認",
+    "example": "She acknowledged that she had made a mistake.",
+    "example_zh": "她承認自己犯了一個錯誤。"
+  },
+  {
+    "date": "2025-05-30",
+    "word": "acquire",
+    "part_of_speech": "verb",
+    "definition": "to buy or obtain for oneself",
+    "definition_zh": "獲得",
+    "example": "The company plans to acquire several smaller businesses.",
+    "example_zh": "該公司計劃收購幾家較小的企業。"
+  },
+  {
+    "date": "2025-05-31",
+    "word": "acquisition",
+    "part_of_speech": "noun",
+    "definition": "the act of acquiring something",
+    "definition_zh": "獲得",
+    "example": "The acquisition of the new property was finalized last week.",
+    "example_zh": "新房產的收購上週已經完成。"
+  }
+]
